@@ -1,4 +1,4 @@
-# tinymce-vue-demo  tinymce 富文本编辑器vue版   支持4.
+# tinymce-vue-demo  tinymce 富文本编辑器vue版   支持4.x.x
 
 ## Project setup
 ```
